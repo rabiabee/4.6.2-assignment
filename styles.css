@@ -1,0 +1,53 @@
+body {
+    background-color: antiquewhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: smaller;
+}
+
+/* image styles */
+#resize {
+    width: 500px;
+    height: auto;
+    border: dotted medium pink;
+}
+
+/* header styles */
+#header {
+    color: firebrick;
+}
+
+#center {
+    text-align: center;
+    border-bottom: medium dotted salmon;
+    border-top: medium dotted salmon;
+}
+
+#cursive {
+    font-style: italic;
+}
+
+/* text styles */
+.text {
+    background-color: lavender;
+}
+
+.color {
+    color: navy;
+}
+
+/*list styles*/
+.underline {
+    text-decoration: underline;
+}
+
+#font-weight {
+    font-weight: lighter;
+}
+
+.overline {
+    text-decoration: underline overline cornflowerblue;
+}
+
+#tcolor {
+    color: cornflowerblue;
+}
